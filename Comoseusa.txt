@@ -1,0 +1,5 @@
+node exportFirestoreDB.js > inventarioComida.json
+
+Conectarse a internet:
+https://json-csv.com/
+

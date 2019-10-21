@@ -1,0 +1,175 @@
+{
+    "comidas": {
+        "data": {
+            "2ZuglvnxbO0YiFMSO0n3": {
+                "data": {
+                    "nombre": "Spaghetti singlu",
+                    "cantidad": "5000g",
+                    "categoria": "Otro"
+                },
+                "type": "document"
+            },
+            "37MvuLfyjxg0vv0gR2de": {
+                "categoria": "Otro",
+                "nombre": "Fideos sin glu",
+                "cantidad": "600g"
+            },
+            "6VVMOYl92riRtjYthfIj": {
+                "nombre": "Pasta (marcha)",
+                "cantidad": "4 raciones",
+                "categoria": "Pastas"
+            },
+            "6yN92DjixvapaHcCrA2B": {
+                "categoria": "Basicos",
+                "nombre": "Sal",
+                "cantidad": "6,5kg"
+            },
+            "8PBBiIfqzbdOln6RPDzs": {
+                "nombre": "Garbanzos",
+                "cantidad": "1kg",
+                "categoria": "Legumbres"
+            },
+            "CurxuPeSbZo6Kh2hTr58": {
+                "nombre": "Tomate frito",
+                "cantidad": "2,5kg",
+                "categoria": "Latas"
+            },
+            "EN4V7RtbbqweHACQ71Sq": {
+                "categoria": "Otro",
+                "nombre": "Hojaldre masa",
+                "cantidad": "4 láminas"
+            },
+            "ETRX7f1paivIFUUrK7dd": {
+                "nombre": "Café molido",
+                "cantidad": "1,2 kg",
+                "categoria": "Basicos"
+            },
+            "EvXpC3VioelAxCL3ZQH5": {
+                "categoria": "Latas",
+                "nombre": "Maíz",
+                "cantidad": "570g"
+            },
+            "GlHoxd8UIlKURA3ooMyN": {
+                "categoria": "Líquidos",
+                "nombre": "Caldo de pollo",
+                "cantidad": "18L"
+            },
+            "K702O3ZPnNLwmAH60Hub": {
+                "nombre": "Arroz",
+                "cantidad": "1kg",
+                "categoria": "Pastas"
+            },
+            "MR8pb8zMm14rTxtCCL5S": {
+                "categoria": "Pastas",
+                "nombre": "Fideos",
+                "cantidad": "6,5kg"
+            },
+            "NXZ22H8VJnD8Ta7SQnWJ": {
+                "categoria": "Dulce",
+                "nombre": "Miel",
+                "cantidad": "3 botes"
+            },
+            "NflQyo7rSWrlSU544DFI": {
+                "categoria": "Dulce",
+                "nombre": "Bolachas",
+                "cantidad": "HAY MAZO XD"
+            },
+            "PrbIz97S1lvv5e0QOO1G": {
+                "categoria": "Latas",
+                "nombre": "Cucas sardinas",
+                "cantidad": "3 latillas"
+            },
+            "R7XlUXRSmGcNZfuMNXx5": {
+                "categoria": "Líquidos",
+                "nombre": "Caldo de pescado",
+                "cantidad": "15L"
+            },
+            "S6JmNUFILEfi5oR4ZwAG": {
+                "categoria": "Latas",
+                "nombre": "Guisantes",
+                "cantidad": "250 g"
+            },
+            "SElTDCkcUxn5rsikAqKq": {
+                "nombre": "Lentejas",
+                "cantidad": "2Kg",
+                "categoria": "Legumbres"
+            },
+            "SVDHBgTK4QAB5EoyOtaQ": {
+                "categoria": "Latas",
+                "nombre": "Fabada",
+                "cantidad": "12,9 kg"
+            },
+            "T0Hllp1nE7YZLHyDKtON": {
+                "categoria": "Otro",
+                "nombre": "Oreo(sinfru)",
+                "cantidad": "3 paq"
+            },
+            "VT6OQK2zvs5xkNjKRKR7": {
+                "categoria": "Pastas",
+                "nombre": "Estrellitas (sopa)",
+                "cantidad": "1,5kg"
+            },
+            "WJSXNBjqRjisXbpuCXcq": {
+                "nombre": "Azúcar",
+                "cantidad": "15,5kg",
+                "categoria": "Basicos"
+            },
+            "Y0MdJrxlFmnJLzja4TBG": {
+                "categoria": "Latas",
+                "nombre": "Macedonia de verduras",
+                "cantidad": "10,8 kg"
+            },
+            "YD6m5Fy42AI8Miud4tjQ": {
+                "nombre": "Bizcochitos(vela)",
+                "cantidad": "96uds",
+                "categoria": "Postre"
+            },
+            "bCzUcb52A3BxHtM5tdwx": {
+                "categoria": "Pastas",
+                "nombre": "Spaghetti",
+                "cantidad": "1,5kg"
+            },
+            "bkCeyxv8O3raX6uxyOKX": {
+                "nombre": "Atún",
+                "cantidad": "600g en latillas",
+                "categoria": "Latas"
+            },
+            "m6EgbaU0MGQws7bSwZFL": {
+                "categoria": "Latas",
+                "nombre": "Melocotón en almíbar",
+                "cantidad": "3 kg"
+            },
+            "tJIfwc3amQJJTJ4ZZ3pK": {
+                "categoria": "Basicos",
+                "nombre": "Harina",
+                "cantidad": "700g"
+            },
+            "vMuZ8RGa1sd5l6jSSCFJ": {
+                "categoria": "Latas",
+                "nombre": "Piña en almíbar",
+                "cantidad": "1,7kg"
+            },
+            "vgEw9ZFw9soMzYEGVaZz": {
+                "categoria": "Pastas",
+                "nombre": "Macarrones",
+                "cantidad": "1kg"
+            },
+            "x5jTKM10HxEpHTYhUOPz": {
+                "categoria": "Líquidos",
+                "nombre": "Chocolate a la taza",
+                "cantidad": "5L"
+            },
+            "xVYXf9sN2lcjdFAvLOzE": {
+                "categoria": "Legumbres",
+                "nombre": "Arroz",
+                "cantidad": "20 gramos"
+            },
+            "zb2izW2ri1ncKlP3LCDq": {
+                "nombre": "Lentejas",
+                "cantidad": "1kg",
+                "categoria": "Legumbres"
+            }
+        },
+        "type": "collection"
+    }
+}
